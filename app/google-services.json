@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "535197327933",
+    "firebase_url": "https://educationalchatbot-5a03d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "educationalchatbot-5a03d",
+    "storage_bucket": "educationalchatbot-5a03d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535197327933:android:3c95ab67da2b79868dc054",
+        "android_client_info": {
+          "package_name": "com.example.educhatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHgVDyvhTg-J-2E0VYidRsfMmBdQNqy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
